@@ -1,0 +1,12 @@
+.table thead th {
+     vertical-align: middle; 
+     border-bottom: 2px solid black;
+     text-align: center; 
+     background-color:#a3dadc;
+}
+.table td{
+	text-align: center;
+}
+.table-bordered td, .table-bordered th{
+	border:1px solid black;
+}
